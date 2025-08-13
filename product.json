@@ -1,0 +1,33 @@
+ [
+    {
+        "id": 1,
+        "name" : "Tie-Dye Lounge Set",
+        "price" : 150,
+        "image" : "./assets/product-1.jpg"
+    }, {
+        "id": 2,
+        "name" : "Sunnurst Track Suit",
+        "price" : 150,
+        "image" : "./assets/product-2.jpg"
+    }, {
+        "id": 3,
+        "name" : "Retro Red Streetwere",
+        "price" : 150,
+        "image" : "./assets/product-3.jpg"
+    }, {
+        "id": 4,
+        "name" : "Urban Sports Combo",
+        "price" : 150,
+        "image" : "./assets/product-4.jpg"
+    }, {
+        "id": 5,
+        "name" : "OverSized knit & Coat",
+        "price" : 150,
+        "image" : "./assets/product-5.jpg"
+    }, {
+        "id": 6,
+        "name" : "Chic Monochrome Blazer",
+        "price" : 150,
+        "image" : "./assets/product-6.jpg"
+    }
+]
