@@ -320,8 +320,9 @@ body {
         font-size: 32px;
     }
 }
-@media(max-width:350px){
+@media(max-width:220px){
     body{
         display: none;
     }
+
 }
